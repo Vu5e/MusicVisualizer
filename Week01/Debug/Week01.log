@@ -1,0 +1,5 @@
+﻿  demo.cpp
+d:\documents\degree\sem 6\3d game programming\week01\week01\demo.cpp(143): warning C4474: 'printf' : too many arguments passed for format string
+  d:\documents\degree\sem 6\3d game programming\week01\week01\demo.cpp(143): note: placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+  Week01.vcxproj -> D:\Documents\Degree\Sem 6\3D Game Programming\Week01\Debug\Week01.exe
+  Week01.vcxproj -> D:\Documents\Degree\Sem 6\3D Game Programming\Week01\Debug\Week01.pdb (Partial PDB)
